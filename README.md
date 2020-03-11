@@ -45,7 +45,7 @@ response:
     "uid": "524288584c77b61f5ae41e2956551c29",
     "subreddit": "news",
     "title": "COVID-19 Megathread #5",
-    "selftext": "**This post is updated daily.**\n\n&amp...”,
+    "selftext": "**This post is updated daily.**\n\n&amp...",
     "author": "RNews_Mod",
     "ups": 273,
     "downs": 0,
