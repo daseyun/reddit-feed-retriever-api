@@ -22,6 +22,7 @@ Tested via Mocha/Chai
 
 ## Heroku
 Hosted here: https://reddit-feed-retriever-api.herokuapp.com/api/
+
 To test features below, replace 'localhost:3200' with 'reddit-feed-retriever-api.herokuapp.com'.
 
 ## Installation
