@@ -3,6 +3,18 @@
 API for retrieving sanitized reddit posts information based on subreddit selection.
 After retrieval, crud operation can be performed on the arbitrary json objects.
 
+# Table:
+* [Tech Stack](https://github.com/daseyun/reddit-feed-retriever-api/blob/master/README.md#technology-stack)
+* [Heroku Link](https://github.com/daseyun/reddit-feed-retriever-api/blob/master/README.md#heroku)
+* [Installation](https://github.com/daseyun/reddit-feed-retriever-api/blob/master/README.md#installation)
+* [Usage](https://github.com/daseyun/reddit-feed-retriever-api/blob/master/README.md#usage)
+* [Errors](https://github.com/daseyun/reddit-feed-retriever-api/blob/master/README.md#errors)
+* [Testing](https://github.com/daseyun/reddit-feed-retriever-api/blob/master/README.md#testing)
+* [Future Work](https://github.com/daseyun/reddit-feed-retriever-api/blob/master/README.md#future-work)
+
+
+
+
 ## Technology Stack
 Implemented using Express/Node.
 
