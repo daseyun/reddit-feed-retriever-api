@@ -4,7 +4,8 @@ API for retrieving sanitized reddit posts information based on subreddit selecti
 After retrieval, crud operation can be performed on the arbitrary json objects.
 
 ## Stack
-Implemented using Express/Node
+Implemented using Express/Node.
+
 Tested via Mocha/Chai
 
 ## Heroku
