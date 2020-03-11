@@ -3,6 +3,10 @@
 API for retrieving sanitized reddit posts information based on subreddit selection.
 After retrieval, crud operation can be performed on the arbitrary json objects.
 
+## Stack
+Implemented using Express/Node
+Tested via Mocha/Chai
+
 ## Heroku
 Hosted here: https://reddit-feed-retriever-api.herokuapp.com/api/
 To test features below, replace 'localhost:3200' with 'reddit-feed-retriever-api.herokuapp.com'.
